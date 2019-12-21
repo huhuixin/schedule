@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * @author hhx
  */
 @Slf4j
-@Component
+//@Component
 public class Worker2 {
 
     /**
